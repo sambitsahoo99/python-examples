@@ -10,6 +10,7 @@ my_iter = iter(my_list)
 # Output: 4
 print(next(my_iter))
 
+
 # Output: 7
 print(next(my_iter))
 
