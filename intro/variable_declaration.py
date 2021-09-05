@@ -70,6 +70,9 @@ import intro.constant as constant
 print(constant.PI)
 print(constant.GRAVITY)
 
+import generators.test as t
+print(t.NUM)
+
 print("__________________________How bool() works?__________________________________________________")
 test = []
 print(test, 'is', bool(test))
